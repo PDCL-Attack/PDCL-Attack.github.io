@@ -1,7 +1,7 @@
 # [ECCV'24] Prompt-Driven Contrastive Learning for Transferable Adversarial Attacks
 ### [Paper](https://pdcl-attack.github.io) | [Project Page](https://pdcl-attack.github.io)
 
-- This is the project page of [Prompt-Driven Contrastive Learning for <br> Transferable Adversarial Attacks](https://pdcl-attack.github.io) (ECCV 2024).
+- This is the project page of [Prompt-Driven Contrastive Learning for Transferable Adversarial Attacks](https://pdcl-attack.github.io) (ECCV 2024).
 
 ---
 
