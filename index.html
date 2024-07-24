@@ -113,7 +113,7 @@
     On the adversary's side, two clear challenges arise: (a) Generating effective prompt-driven feature guidance, and (b) Identifying robust prompts which maximize the effectiveness.
       <br><br>
       <div class="gray-box-custom" style="margin-top:-12px">
-        <b>PDCL-Attack</b> enhances the transferable attacks by leveraging the representative text feature guidance.
+        <b>PDCL-Attack</b> enhances transferable attacks via CLIP guidance and prompt learning.
       </div>
     </h2>
   </div>
@@ -208,7 +208,6 @@
             <b>Cross-domain evaluation results.</b>&nbsp;
             The perturbation generator is trained on ImageNet-1K with VGG-16 as the surrogate model and evaluated on black-box domains with models.
             We compare the top-1 classification accuracy after attacks.
-            <b>Best</b> and <u>second best</u>.
           </p>
         </div>
       </div>
@@ -233,7 +232,6 @@
             <b>Cross-model evaluation results.</b>&nbsp;
             The perturbation generator is trained on ImageNet-1K with VGG-16 as the surrogate model and evaluated on black-box models.
             We compare the top-1 classification accuracy after attacks.
-            <b>Best</b> and <u>second best</u>.
           </p>
         </div>
       </div>
@@ -257,7 +255,6 @@
           <p>
             <b>Effect of learnable context words.</b>&nbsp;
             Learnable context words outperform hand-crafted heuristic ones, and increasing their capacity further improves the attack effectiveness.
-            <b>Best</b> and <u>second best</u>.
           </p>
         </div>
       </div>
